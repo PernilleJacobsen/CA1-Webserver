@@ -15,17 +15,22 @@
         <title>Downloadpage</title>
     </head>
     <body>
-        <div class="nav">
-      
-        <ul class="pull-left">
-          <li><a href="index.html">Back</a></li>
-        </ul>
+        <div class="navbar-header">
+                    <a class="navbar-brand" href="index.html">ChatHome</a>
+                </div>
+                <ul class="nav nav-tabs">
+                    <li><a href="logIn.jsp">Documentation</a></li>
+                    <li><a href="download.jsp">Download chatclient</a></li>
+    
+                </ul>
       </div>
     </div>
-    <h1>.</h1>
-        <p>Pres the link to start the download!</p>
+    <h1>Download chatclient here for free</h1>
+        <p>Pres download link below!</p>
         <a href="hvad hedder vores jar fil?.jar">Download</a>
+        
    
     </div> 
+    <img class="img-responsive" src="image/stairs.jpg" alt="" />
     </body>
 </html>
