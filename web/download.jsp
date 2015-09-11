@@ -27,7 +27,7 @@
     </div>
     <h1>Download chatclient here for free</h1>
         <p>Pres download link below!</p>
-        <a href="hvad hedder vores jar fil?.jar">Download</a>
+        <a href="CA1Chat2.jar">Download</a>
         
    
     </div> 
