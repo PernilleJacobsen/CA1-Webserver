@@ -46,7 +46,18 @@
             <li>logFile = chatLog.txt</li>
         </ul>
         <h2>Serveren ligger her</h2>
+        <ul>
+            <li>serverlocation</li>
+            
+        </ul>
+
         <p>hvad skriver vi her</p>
+        <h2>Log in til dokumentation</h2>
+        <ul>
+            <li>brugernavn: tomcat</li>
+            <li>password: tomcat</li>
+        </ul>
+
 
 
         
