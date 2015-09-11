@@ -27,7 +27,7 @@
     </div>
     <h1>Download chatclient here for free</h1>
         <p>Pres download link below!</p>
-        <a href="C:\MyServers\dist" download="CA1Chat2.jar">Download</a>
+        <a href="files/CA1Chat2.jar">Download</a>
         
    
     </div> 
