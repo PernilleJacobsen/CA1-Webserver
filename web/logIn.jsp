@@ -21,6 +21,7 @@
                 <ul class="nav nav-tabs">
                     <li><a href="logIn.jsp">Documentation</a></li>
                     <li><a href="download.jsp">Download chatclient</a></li>
+                    <li><a href="Userguide.jsp">Userguide</a></li>
     
                 </ul>
         <h1>Dokumentation</h1>
