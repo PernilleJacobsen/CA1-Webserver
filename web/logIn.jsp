@@ -41,21 +41,20 @@
         <h2>Properties fil</h2>
         <p>vi har en properties fil der indeholder</p>
         <ul>
-            <li>serverIp = localhost</li>
-            <li>port = 9090/li>
+            <li>serverIp = 104.41.225.21</li>
+            <li>port = 9090</li>
             <li>logFile = chatLog.txt</li>
         </ul>
         <h2>Serveren ligger her</h2>
         <ul>
-            <li>serverlocation</li>
+            <li>gladospotato.cloudapp.net</li>
             
         </ul>
 
-        <p>hvad skriver vi her</p>
         <h2>Log in til dokumentation</h2>
         <ul>
-            <li>brugernavn: tomcat</li>
-            <li>password: tomcat</li>
+            <li>brugernavn: test</li>
+            <li>password: test</li>
         </ul>
 
 
